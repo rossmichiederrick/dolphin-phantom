@@ -1,2 +1,2 @@
-# dolphin-phantom
+# dolphinphantom
 self explanatory
